@@ -6,9 +6,7 @@ package calss01;
  * @Author honghonghui
  * @Date
  **/
-public class Hello1 {
-    public Hello1(){
-    }
+public class ByteAnalyze {
     public static void main(String[] args) {
         int a = 1;
         int b = 2;
